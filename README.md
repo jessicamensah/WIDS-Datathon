@@ -13,5 +13,5 @@ numpy,
 scikit-learn, 
 xgboost, 
 lightgbm, 
-matplotlib, 
-seaborn, 
+matplotlib and
+seaborn
